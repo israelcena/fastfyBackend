@@ -1,0 +1,13 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#311D6F",
+    "titleBar.activeBackground": "#44299B",
+    "titleBar.activeForeground": "#FCFBFE"
+  },
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  }
+}
